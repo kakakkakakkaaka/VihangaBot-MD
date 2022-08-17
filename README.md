@@ -13,20 +13,20 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/THTK67m/RVIDU-MD.png" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RVIDU MD" src="https://img.shields.io/badge/RVIDU-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
       
 <p align="center">By Vihanga YT>| © | Reserved  </br> 
 </p>
 
-1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-QR3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@RVIDU-YTYT/Vihanga-MD-QR3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD/fork)
+2. Click [FORK](https://github.com/RVIDUyt0/RVIDUBot-MD/fork)
 
 2. After That Upload Session.json File
 
@@ -36,7 +36,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`Vihanga-YT`](https://github.com/RVIDU0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
